@@ -1,0 +1,19 @@
+body{
+    background-attachment: #b11010;
+    color: aqua;
+}
+.login{
+    background-color: rgb(132, 184, 229);
+    color: bisque;
+    border: 1;
+    stroke-width: 0%;
+    height: 80%;
+    width: 40%;
+    padding-bottom: 2;
+    
+}
+tr{
+    column-rule: 0dvb;
+    padding: 5;
+    sp
+}
